@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Environment and secrets
+.env
+
+# Generated data
+cerato_divar_tehran.csv
+*.log
